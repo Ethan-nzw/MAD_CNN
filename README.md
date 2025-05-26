@@ -30,6 +30,7 @@ conda env create -f environment.yml
 ```
 
 ## Project Structure
+```bash
 collision-detection/
 ├── config.py              # Central configuration parameters
 ├── helpers.py             # Data loading, model helpers
@@ -40,6 +41,7 @@ collision-detection/
 ├── environment.yml        # Conda environment specification
 ├── README.md              # This document
 └── requirements.txt       # Requirements
+```
 
 ## Usage
 ```bash
