@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 
-A deep learning-based system for robotic collision detection using temporal signal processing and attention mechanisms.
+A Modularized Attention Dilated Convolutional Neural Network for High Sensitivity and Robust Collision Detection in Variable Stiffness Robots
 
 ## Table of Contents
 - [Features](#features)
@@ -14,7 +14,7 @@ A deep learning-based system for robotic collision detection using temporal sign
 
 
 ## Features
-- MAD-CNN architecture for temporal signal processing
+- MAD-CNN architecture for robotic collision detection
 - Multi-stiffness level collision detection
 
 ## Requirements
