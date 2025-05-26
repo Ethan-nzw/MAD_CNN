@@ -24,7 +24,7 @@ A deep learning-based system for robotic collision detection using temporal sign
 
 ## Installation
 ```bash
-# git clone https://github.com/yourusername/collision-detection.git
+git clone https://github.com/Ethan-nzw/MAD_CNN.git
 cd MAD_CNN
 conda env create -f environment.yml
 ```
