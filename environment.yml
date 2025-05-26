@@ -1,0 +1,16 @@
+name: collision_detection_env
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - scipy
+  - pytorch
+  - pytorch-cuda=11.8  # optional, remove if CPU-only
+  - pip
+  - pip:
+    - timeit  # Only if you need specific version from PyTorch
