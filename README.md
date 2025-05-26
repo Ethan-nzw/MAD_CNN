@@ -42,6 +42,7 @@ collision-detection/
 └── requirements.txt       # Requirements
 
 ## Usage
+```bash
 python main.py
-
+```
 
